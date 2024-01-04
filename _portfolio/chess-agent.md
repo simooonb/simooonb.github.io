@@ -1,5 +1,6 @@
 ---
 title: "Chess agent"
+date: 2017-12-15
 excerpt: "C# project (university) - chess agent"
 collection: portfolio
 ---

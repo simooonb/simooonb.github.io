@@ -1,5 +1,6 @@
 ---
 title: "Musicla"
+date: 2022-06-15
 excerpt: "Scala project (paused) - music theory engine and question generation"
 collection: portfolio
 ---

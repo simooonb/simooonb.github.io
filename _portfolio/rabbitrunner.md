@@ -1,5 +1,6 @@
 ---
 title: "RabbitRunner"
+date: 2016-01-16
 excerpt: "C# project (engineering school) - Unity game in three days"
 collection: portfolio
 ---
