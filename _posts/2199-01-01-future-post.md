@@ -1,11 +1,13 @@
 ---
-title: 'Future Blog Post'
+title: 'Future blog posts'
 date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2199/01/secret/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - secret
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+Ideas for future posts:
+- ML courses review & recap & summary & opinion
+- Kaggle competitions runthrough (beginner's POV)
+- Side projects research & showcase
+- Paper reviews & result recreation
