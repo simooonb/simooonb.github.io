@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Simon Bar"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "youngsimon.png"
+  bio              : "Software Engineer in Operations Research very much interested in AI & ML"
   location         : "Lille, France"
   employer         : "Colisweb"
   pubmed           :
